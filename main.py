@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 """
-Network Analyzer - A Wireshark-like packet capture and analysis tool
-Enhanced version with better Windows support and alternative capture methods
 
 Requirements:
 - pip install scapy psutil
